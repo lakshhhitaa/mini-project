@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "nikhil",
+      "email": "nikhilmahalik78@gmail.com",
+      "password": "$2b$10$rdGu3lhtcZ9IoPjmIAePrOHHE7GAawRqvGVRk6s4SSNlf0tnEfbse",
+      "created_at": "2025-12-13T18:46:50.974Z"
+    },
+    {
+      "id": 2,
+      "username": "testuser",
+      "email": "test@example.com",
+      "password": "$2b$10$M3binjZ5VK3CQ/aPhvC0xu9uO5fdB1S8DO1WimLeKGXUYpw5u.NIi",
+      "created_at": "2025-12-13T18:48:09.100Z"
+    },
+    {
+      "id": 3,
+      "username": "satyam",
+      "email": "satyam@gmail.com",
+      "password": "$2b$10$MRntwX4vXiB4SI1hAPZHQ.l27/ADUsyrAOrABpsEfRjWGEuGIw/P2",
+      "created_at": "2025-12-13T19:31:23.932Z"
+    },
+    {
+      "id": 4,
+      "username": "testuser2",
+      "email": "test2@example.com",
+      "password": "$2b$10$Ox0o3EqMfoyxB3bf0Wv6UudJWl.S1Epc.FX9sWc7DMrNFslrpoY2y",
+      "created_at": "2025-12-14T12:44:40.864Z"
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "user_id": 2,
+      "amount": 50,
+      "category": "Food",
+      "description": "Lunch",
+      "date": "2025-12-14",
+      "created_at": "2025-12-13T18:48:49.508Z"
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "amount": "800",
+      "category": "Food",
+      "description": "dcjbhcwh",
+      "date": "2025-12-10",
+      "created_at": "2025-12-13T19:28:06.789Z"
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "amount": "78",
+      "category": "Entertainment",
+      "description": "xfcvhj",
+      "date": "2025-12-14",
+      "created_at": "2025-12-14T12:36:25.396Z"
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "amount": "567",
+      "category": "Entertainment",
+      "description": "ghjk",
+      "date": "2025-12-14",
+      "created_at": "2025-12-14T12:36:33.287Z"
+    }
+  ],
+  "wishlist": [],
+  "necessities": []
+}
